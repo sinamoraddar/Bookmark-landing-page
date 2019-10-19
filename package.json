@@ -1,0 +1,19 @@
+{
+  "name": "bookmark-landing-page",
+  "version": "1.0.0",
+  "description": "my solution to the challenge by frontendmentor.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinamoraddar/Bookmark-landing-page.git"
+  },
+  "author": "sinamoraddar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinamoraddar/Bookmark-landing-page/issues"
+  },
+  "homepage": "https://github.com/sinamoraddar/Bookmark-landing-page#readme"
+}
